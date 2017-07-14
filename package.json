@@ -1,0 +1,24 @@
+{
+  "name": "chinese-year",
+  "version": "1.0.0",
+  "description": "get the zodiac animal name of a year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangsongiam/chinese-year.git"
+  },
+  "keywords": [
+    "chinese",
+    "year",
+    "zodiac"
+  ],
+  "author": "Song Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangsongiam/chinese-year/issues"
+  },
+  "homepage": "https://github.com/wangsongiam/chinese-year#readme"
+}
