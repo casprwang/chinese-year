@@ -1,6 +1,6 @@
 {
   "name": "chinese-year",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get the zodiac animal name of a year",
   "main": "index.js",
   "scripts": {

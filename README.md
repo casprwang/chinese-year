@@ -24,5 +24,5 @@ chineseYear.getAnimal(2000)
 get zodiac animal name of a year number
 
 ## License
-MIT © [Song Wang](songwang.io)
+MIT © [Song Wang](https://songwang.io)
 
