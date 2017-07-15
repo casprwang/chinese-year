@@ -4,7 +4,7 @@
   "description": "get the zodiac animal name of a year",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -13,12 +13,18 @@
   "keywords": [
     "chinese",
     "year",
-    "zodiac"
+    "zodiac",
+    "animals"
   ],
   "author": "Song Wang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wangsongiam/chinese-year/issues"
   },
-  "homepage": "https://github.com/wangsongiam/chinese-year#readme"
+  "homepage": "https://github.com/wangsongiam/chinese-year#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^20.0.4"
+  }
 }
