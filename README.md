@@ -1,4 +1,4 @@
-# chinese-year
+# chinese-year [![Build Status](https://travis-ci.org/wangsongiam/chinese-year.svg?branch=master)](https://travis-ci.org/wangsongiam/chinese-year)
 > get the zodiac animal name of a certain year
 
 The name list is just a list file and can be used wherever.
