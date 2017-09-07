@@ -1,12 +1,11 @@
 {
   "name": "chinese-year",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "get the zodiac animal name of a year",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest lib",
-    "build": "babel . --out-dir lib --ignore node_modules lib",
-    "prepublish": "npm run build"
+    "build": "babel . --out-dir lib --ignore node_modules lib"
   },
   "repository": {
     "type": "git",
